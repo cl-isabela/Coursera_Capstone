@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Coursera capstone project
+ This repository will be mainly used for the capstone project.
